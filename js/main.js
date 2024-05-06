@@ -12,7 +12,7 @@ for (let i = 0; i < 5; i++) {
 
 setTimeout(function () {
     section.classList.add('hidden')
-}, 4 * 1000)
+}, 3 * 1000)
 
 setTimeout(function () {
     for (let i = 0; i < 5; i++) {
@@ -26,5 +26,5 @@ setTimeout(function () {
             alert('hai beccato il numero ' + element)
         }
     }
-}, 3 * 1000)
+}, 3.3 * 1000)
 
